@@ -35,7 +35,7 @@ Developed in collaboration with @yonizvida
 
 ## Links
 - 🎥 Flight test videos: https://www.youtube.com/shorts/YoM5mkWy5gs
-- 💻 Full code & project report: [GitHub Link]
+- 💻 Full code & project report: https://github.com/MichaelMarzayev/Drone_System_FinalProject/tree/main
 
 ---
 
