@@ -26,10 +26,11 @@ Developed in collaboration with @yonizvida
 
 ## Project Structure
 - `Firmware/ESP32` – flight controller code in C++
-- `GroundStation/RaspberryPi` – Python code for telemetry and control
+- `GroundStation/RaspberryPi5` – Python code for telemetry and control
 - `TabletApp/MITAppInventor` – Tablet interface for monitoring and control
-- `Docs` – project report, schematics, diagrams
-- `Videos` – flight test recordings
+- `Test` – flight test and PID tests recordings
+- `Documentation` – full project report
+
 
 ---
 
